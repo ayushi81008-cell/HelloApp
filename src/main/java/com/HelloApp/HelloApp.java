@@ -1,4 +1,4 @@
-package com.HelloAppx;
+package com.HelloApp;
 public class HelloApp {
 
     public static void main(String[] args) {
